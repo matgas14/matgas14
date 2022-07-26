@@ -1,9 +1,6 @@
-import "./styles.css";
 
 // Follow this link to open readMe in codesandbox: https://codesandbox.io/s/matej-gaspert-readme-iuivp5?file=/src/App.js
 
-export default function App() {
-  return (
     <div className="app">
       <div className="container">
         <h1>Hello Viewer!</h1>
@@ -38,21 +35,17 @@ export default function App() {
         <h3>How to reach me</h3>
         <div className="contact">
           <div className="contact-item">
-            <img alt="phone" src="images/whatsapp.svg" />
             +385 99 750 5839
           </div>
           <div className="contact-item">
-            <img alt="linkedin" src="images/linkedin.svg" />
+            
             <a href="https://www.linkedin.com/in/matgas14/">
               https://www.linkedin.com/in/matgas14/
             </a>
           </div>
           <div className="contact-item">
-            <img alt="email" src="images/mail.svg" />
             matejgaspert23@gmail.com
           </div>
         </div>
       </div>
     </div>
-  );
-}
