@@ -1,6 +1,8 @@
 
 // Follow this link to open readMe in codesandbox: https://codesandbox.io/s/matej-gaspert-readme-iuivp5?file=/src/App.js
 
+export default function App() {
+  return (
     <div className="app">
       <div className="container">
         <h1>Hello Viewer!</h1>
@@ -49,3 +51,4 @@
         </div>
       </div>
     </div>
+)};
