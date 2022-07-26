@@ -40,7 +40,6 @@ export default function App() {
             +385 99 750 5839
           </div>
           <div className="contact-item">
-            
             <a href="https://www.linkedin.com/in/matgas14/">
               https://www.linkedin.com/in/matgas14/
             </a>
@@ -51,4 +50,5 @@ export default function App() {
         </div>
       </div>
     </div>
-)};
+  );
+}
