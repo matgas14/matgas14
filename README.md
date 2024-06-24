@@ -11,12 +11,7 @@ export default function App() {
       <div className="container-reverse">
         <h3>About me</h3>
         <span className="info-text">
-          Young and ambitious, I am always looking to expand and sharpen my
-          skills and knowledge. I have been working for the past two years as a
-          front end developer with React.js. I am interested in enhancing my
-          React skills as well as learning new technologies. My focus is on
-          frontend development but my future goal is to be a full-stack
-          developer.
+          Soon...
         </span>
         <span className="info-text">
           I am currently developing responsive websites for individual client
@@ -37,7 +32,7 @@ export default function App() {
         <h3>How to reach me</h3>
         <div className="contact">
           <div className="contact-item">
-            +385 99 750 5839
+            +385 99 846 1872
           </div>
           <div className="contact-item">
             <a href="https://www.linkedin.com/in/matgas14/">
