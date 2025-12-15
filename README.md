@@ -11,9 +11,6 @@ export default function App() {
       <div className="container-reverse">
         <h3>About me</h3>
         <span className="info-text">
-          Soon...
-        </span>
-        <span className="info-text">
           I am currently developing responsive websites for individual client
           projects and I have worked on Atlassian Apps and products. I have
           experience in building apps and pages from scratch as well as updating
