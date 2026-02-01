@@ -30,9 +30,6 @@ export default function App() {
         <h3>How to reach me</h3>
         <div className="contact">
           <div className="contact-item">
-            +385 99 846 1872
-          </div>
-          <div className="contact-item">
             <a href="https://www.linkedin.com/in/matgas14/">
               https://www.linkedin.com/in/matgas14/
             </a>
