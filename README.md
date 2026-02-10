@@ -1,30 +1,11 @@
-
-// Follow this link to open readMe in codesandbox: https://codesandbox.io/s/matej-gaspert-readme-iuivp5?file=/src/App.js
-// Repo: https://github.com/matgas14/super_awesome_page_v1
+// Repo about myself: https://github.com/matgas14/super-awesome-page-V2
 
 export default function App() {
   return (
     <div className="app">
       <div className="container">
         <h1>Hello Viewer!</h1>
-        <h2>Seems like you've stumbled upon my github page...</h2>
-      </div>
-      <div className="container-reverse">
-        <h3>About me</h3>
-        <span className="info-text">
-          I am currently developing responsive websites for individual client
-          projects and I have worked on Atlassian Apps and products. I have
-          experience in building apps and pages from scratch as well as updating
-          and/or fixing bugs on existing apps and websites.
-        </span>
-      </div>
-      <div className="container">
-        <h3>What I'm looking for...</h3>
-        <span className="info-text">
-          I am looking for a challenging and healthy environment where I would
-          have the chance both to work independently on interesting projects,
-          and have the opportunity to learn and grow as a developer.
-        </span>
+        <h2>Seems like you've stumbled upon my github page... I suggest you download the super-awesome-page-V2 and run it locally to view more about me (It will soon be online, it is not yet hosted anywhere :D )</h2>
       </div>
       <div className="container-reverse">
         <h3>How to reach me</h3>
