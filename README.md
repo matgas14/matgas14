@@ -1,5 +1,5 @@
 // Repo about myself: https://github.com/matgas14/super-awesome-page-V2
-
+{
     <div className="app">
       <div className="container">
         <h1>Hello Viewer!</h1>
@@ -19,3 +19,4 @@
         </div>
       </div>
     </div>
+}
