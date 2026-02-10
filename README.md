@@ -1,7 +1,5 @@
 // Repo about myself: https://github.com/matgas14/super-awesome-page-V2
 
-export default function App() {
-  return (
     <div className="app">
       <div className="container">
         <h1>Hello Viewer!</h1>
@@ -21,5 +19,3 @@ export default function App() {
         </div>
       </div>
     </div>
-  );
-}
